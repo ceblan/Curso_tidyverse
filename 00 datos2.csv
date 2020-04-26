@@ -1,0 +1,27 @@
+Fecha;Producto;Tienda;Cantidad Vendida
+2019-12-20T00:00:00Z;Producto A;Circunvalar; 83
+2019-01-14T00:00:00Z;Producto B;Calle 14; 49
+2019-06-05T00:00:00Z;Producto C;Circunvalar; 89
+2019-10-17T00:00:00Z;Producto D;Calle 15;100
+2019-03-09T00:00:00Z;Producto A;Circunvalar; 91
+2019-08-24T00:00:00Z;Producto B;Calle 16; 76
+2019-04-12T00:00:00Z;Producto C;Circunvalar; 20
+2019-10-20T00:00:00Z;Producto D;Calle 17; 33
+2019-10-28T00:00:00Z;Producto A;Circunvalar; 20
+2019-02-23T00:00:00Z;Producto B;Calle 18; 85
+2019-11-30T00:00:00Z;Producto C;Circunvalar; 60
+2019-01-19T00:00:00Z;Producto D;Calle 19; 14
+2019-02-02T00:00:00Z;Producto A;Circunvalar; 47
+2019-05-01T00:00:00Z;Producto B;Calle 20; 57
+2019-02-09T00:00:00Z;Producto C;Circunvalar; 24
+2019-06-29T00:00:00Z;Producto D;Calle 21; 18
+2019-02-19T00:00:00Z;Producto A;Circunvalar; 31
+2019-04-25T00:00:00Z;Producto B;Calle 22; 78
+2019-06-18T00:00:00Z;Producto C;Circunvalar; 31
+2019-06-27T00:00:00Z;Producto D;Calle 23; 72
+2019-10-11T00:00:00Z;Producto A;Circunvalar; 63
+2019-04-26T00:00:00Z;Producto B;Calle 24; 93
+2019-09-02T00:00:00Z;Producto C;Circunvalar; 68
+2019-06-27T00:00:00Z;Producto D;Calle 25; 82
+2019-03-12T00:00:00Z;Producto A;Circunvalar; 40
+2019-12-22T00:00:00Z;Producto B;Calle 26; 20
