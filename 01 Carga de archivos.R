@@ -23,7 +23,6 @@ v_clases <- csv1 %>% pull(clases)
 
 ## extracts frequencies into a vector
 v_frecuencias <- csv1 %>% pull(frecuencia)
-
 ## plot pareto chart from out tibble
 names(v_frecuencias) <- v_clases
 pareto.chart(v_frecuencias, ylab = "Error freq")
